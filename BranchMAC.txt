@@ -1,2 +1,1 @@
-UsefromMac 3
-UsefFromPC
+test
